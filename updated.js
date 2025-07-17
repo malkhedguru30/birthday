@@ -26,7 +26,7 @@ const messages = ["Its your special day..","And to the universe, you're even mor
     setTimeout(showNextMessage, 5000);
 
     function respondYes() {
-      msg.innerText = "have look at it,Ananya🎀";
+      msg.innerText = "Have look at it,Ananya🎀";
       btns.style.display = 'none';
       msgBox.style.animation = 'fadeIn 0.8s ease';
     
